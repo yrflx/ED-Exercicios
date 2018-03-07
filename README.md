@@ -5,4 +5,4 @@ Repositório destinado a armanezar a solução dos exercicios propostos pelo pro
 
 # Exercicios Resolvidos
 1. Fun with sequences
-http://www.spoj.com/BSCPROG/problems/SMPSEQ3/
+  http://www.spoj.com/BSCPROG/problems/SMPSEQ3/
